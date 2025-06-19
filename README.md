@@ -1,6 +1,6 @@
-# 🤖 Intelligenter KI-Mülleimer – HTL-Diplomarbeit 2024/25
+# 🤖 Intelligenter KI-Mülleimer – HTL-Diplomarbeit 2025/26
 
-Ein autonomes Mülltrennungssystem mit Mikrocontrollersteuerung (ESP32), KI-gestützter Bilderkennung (Raspberry Pi), Echtzeit-Sensorik und moderner Kommunikation über MQTT/HTTP. Entwickelt als Diplomarbeit an der HTL [Name der Schule].
+Ein autonomes Mülltrennungssystem mit Mikrocontrollersteuerung (ESP32), KI-gestützter Bilderkennung (Raspberry Pi), Echtzeit-Sensorik und moderner Kommunikation über MQTT/HTTP. Entwickelt als Diplomarbeit an der HTL Anichstraße.
 ---
 
 ## 📍 Ausgangslage
